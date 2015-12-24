@@ -25,3 +25,4 @@ What I found disturbing was that there were no tutorials or
 anything. I'll soon post a tutorial for adding new PCI devices
 to QEMU.
 
+*http://ilevex.eu/post/88944209761/how-to-create-a-custom-pci-device-in-qemu*
